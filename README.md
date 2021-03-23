@@ -13,3 +13,6 @@
 <br>•	30 Days of Code – Hackerrank (Java 2019-2020)</br>
 <br>•	AI Accountability Essential Training (2019 - LinkedIn)</br>
 <br>•	Project Management Simplified (LinkedIn 2019)</br>
+<br>•	The DEFINITIVE course on Speed Reading (Udemy 2017)</br>
+<br>• Data Center Design Awareness Certification (RBS – 2012)</br>
+
