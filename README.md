@@ -1,6 +1,14 @@
 # Courses-and-certification
-<br>•	Santander Universities Student Online Self-Development Programme (2021)</br>
-<br>•	PHP: Getting Started (Pluralsight- 2021)</br>
+<br>•	Core Python: Big Picture (Pluralsight - Sep - 2021)</br>
+<br>•	Building Websites with HTML, CSS, and JavaScript: Getting Started (Pluralsight - Sep - 2021)</br>
+<br>•	HTML Fundamentals (Pluralsight - Aug - 2021)</br>
+<br>•	Styling Websites with CSS (Pluralsight - Aug - 2021)</br>
+<br>•	Ruby Object-oriented Ruby Fundamentals (Pluralsight - Mar - 2021)</br>
+<br>•	Ruby Fundamentals (Pluralsight - Mar - 2021)</br>
+<br>•	Ruby: Getting Started (Pluralsight - Mar - 2021)</br>
+<br>•	Ruby: Ruby: The Big Picture (Pluralsight - March 2021)</br>
+<br>•	Santander Universities Student Online Self-Development Programme (Feb - 2021)</br>
+<br>•	PHP: Getting Started (Pluralsight - 2021)</br>
 <br>•	PHP Fundamentals (Pluralsight- 2021)</br>
 <br>•	Object-oriented PHP: Essential Constructs (Pluralsight- 2021)</br>
 <br>•	Java Essential Training: Objects and APIs (Pluralsight - 2020)</br>
