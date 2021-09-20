@@ -6,7 +6,7 @@
 <br>•	Ruby Object-oriented Ruby Fundamentals (Pluralsight - Mar - 2021)</br>
 <br>•	Ruby Fundamentals (Pluralsight - Mar - 2021)</br>
 <br>•	Ruby: Getting Started (Pluralsight - Mar - 2021)</br>
-<br>•	Ruby: Ruby: The Big Picture (Pluralsight - March 2021)</br>
+<br>•	Ruby: Ruby: The Big Picture (Pluralsight - Mar 2021)</br>
 <br>•	Santander Universities Student Online Self-Development Programme (Feb - 2021)</br>
 <br>•	PHP: Getting Started (Pluralsight - 2021)</br>
 <br>•	PHP Fundamentals (Pluralsight- 2021)</br>
